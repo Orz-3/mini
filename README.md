@@ -7,4 +7,4 @@ mini项目
 
 logo都比较简单，如有其他项目支持了，建议转用其他项目，本项目仅作查缺补漏
 
-![说明文字](图片地址)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/master/2020-04-05.jpg)
