@@ -11,6 +11,10 @@ logo都比较简单，如有其他项目支持了，建议转用其他项目，�
 
 以下为示例：(示例皆为实机截图)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/04-05.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo0.jpg)
 
+![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo1.jpg)
 
+![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo2.jpg)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo3.jpg)
