@@ -1,6 +1,8 @@
 
 mini项目
 
+![示例](https://raw.githubusercontent.com/Orz-3/mini/master/拼图.jpg)
+
 由于QuantumultX 1.07版本新增了机场订阅等的img-url特性
 
 本项目是为一些暂时未被其他项目覆盖的机场，做一个简单的logo，用于QuantumultX 1.07中
