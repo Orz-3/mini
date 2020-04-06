@@ -23,4 +23,4 @@ logo都比较简单，如有其他项目支持了，建议转用其他项目，�
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo4.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo5.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo5.png)
