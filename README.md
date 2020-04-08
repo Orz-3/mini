@@ -1,7 +1,7 @@
 
 mini项目
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/拼图.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
 
 由于QuantumultX 1.07版本新增了机场订阅等的img-url特性
 
@@ -13,21 +13,21 @@ logo都比较简单，如有其他项目支持了，建议转用其他项目，�
 
 以下为示例：(示例皆为实机截图)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo0.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo0.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo1.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo1.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo2.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo2.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo3.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo3.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo4.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo4.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo5.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo5.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo6.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo6.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo7.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo7.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/master/photo8.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo8.jpg)
 
