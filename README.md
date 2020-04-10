@@ -39,3 +39,6 @@ logo都比较简单，如有其他项目支持了，建议转用其他项目，�
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo8.jpg)
 
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo9.jpg)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/photo10.jpg)
