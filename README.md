@@ -3,15 +3,15 @@ mini项目
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板1.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/副本1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板2.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/副本2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板3.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/副本3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板4.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/副本4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板10.jpg)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/副本10.png)
 
 由于QuantumultX 1.07版本新增了机场订阅等的img-url特性
 
