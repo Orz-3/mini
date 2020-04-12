@@ -18,7 +18,7 @@ mini项目
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新N.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新10.png)
 
 
 
