@@ -3,7 +3,7 @@
 
 mini项目
 
-由于QuantumultX 1.07版本新增了机场订阅等的img-url特性
+由于QuantumultX 1.07版本新增了机场订阅等的img-url特性，本项目由此应运而生
 
 本项目是为机场订阅制作图标，用于QuantumultX 1.07及以上版本中
 
@@ -15,7 +15,7 @@ mini项目
   
   打开QuanX 配置文件-编辑，找到［server_remote］字段，在想要增加图标的相应订阅中修改，在enable＝true之前加上
   img-url=https://raw.githubusercontent.com/Orz-3/mini/master/文件名.png
-  注意此句和前后句都要已英文逗号隔开，并且逗号后先要空一格
+  注意此句和前后句都要用英文逗号隔开，并且逗号后先要空一格
   
   2、策略组引用
   
