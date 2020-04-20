@@ -27,15 +27,15 @@ Telegram频道：https://t.me/Orzmini
 
 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新1.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新2.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新3.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新4.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新5.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-5.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新N.png)
 
