@@ -19,6 +19,9 @@ Telegram频道：https://t.me/Orzmini
   img-url=https://raw.githubusercontent.com/Orz-3/mini/master/文件名.png
   注意此句和前后句都要用英文逗号隔开，并且逗号后先要空一格
   
+
+  完整示例：https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=Sample-02, as-policy=static, img-url=http://example.com/icon.png, enabled=false
+
   2、策略组引用
   
   2.1 如果通过as-policy生成策略组，会直接引用和订阅链接字段同样的图标，且无法更改
