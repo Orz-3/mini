@@ -37,7 +37,7 @@ Telegram频道：https://t.me/Orzmini
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-5.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/新N.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-彩蛋.png)
 
 
 
