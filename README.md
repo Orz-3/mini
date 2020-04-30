@@ -44,7 +44,7 @@ Telegram频道：https://t.me/Orzmini
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.0-彩蛋.png)
 
+节点地区
 
-
-
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/ 地区.png)
 
