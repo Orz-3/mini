@@ -50,3 +50,8 @@ Telegram频道：https://t.me/Orzmini
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/节点地区.png)
 
+如果觉得本项目对你有帮助，可以赞赏一下
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/py.png)
+
+
