@@ -54,7 +54,11 @@ Telegram频道：https://t.me/Orzmini
 
 节点地区
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/节点地区.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区1.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区2.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区3.png)
 
 Task图标
 
