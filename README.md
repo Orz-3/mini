@@ -32,6 +32,8 @@ Telegram频道：https://t.me/Orzmini
 
 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
 
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/机场.png)
+
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-1.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-2.png)
@@ -44,6 +46,12 @@ Telegram频道：https://t.me/Orzmini
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-6.png)
 
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-彩蛋.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
+
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略组0.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略组1.png)
@@ -52,7 +60,7 @@ Telegram频道：https://t.me/Orzmini
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略组3.png)
 
-节点地区
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区1.png)
 
@@ -60,7 +68,7 @@ Telegram频道：https://t.me/Orzmini
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区3.png)
 
-Task图标
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/Task.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.png)
 
