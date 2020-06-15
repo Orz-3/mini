@@ -78,6 +78,4 @@ Telegram频道：https://t.me/Orzmini
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-4.png)
 
-
-
-
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-5.png)
