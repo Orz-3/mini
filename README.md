@@ -9,7 +9,7 @@
 
 注意：本项目仅收录机场订阅相关图标，这些图标可用于订阅，策略组等位置的远程引用
 
-##### Telegram频道：https://t.me/Orzmini
+##### Telegram频道：* [mini计划-图标聚合](https://t.me/Orzmini)
 
 ### 使用方法：
 
