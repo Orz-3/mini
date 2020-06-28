@@ -7,7 +7,7 @@
 
 本项目是为Quantumult X订阅制作图标，用于QuantumultX 1.07及以上版本中
 
-**注意：**本项目图标可用于订阅，策略组等位置的远程引用
+**注意：** 本项目图标可用于订阅，策略组等位置的远程引用
 
 ##### Telegram频道： [mini计划-图标聚合](https://t.me/Orzmini)
 
@@ -30,7 +30,7 @@
 
   **完整示例：**`static=policy-name-1, Sample-A, Sample-B, Sample-C, img-url=http://example.com/icon.png`
 
-####图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
+#### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/机场.png)
 
