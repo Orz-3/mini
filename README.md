@@ -1,7 +1,7 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
 
-mini项目
+## mini项目
 
 由于QuantumultX 1.07版本新增了机场订阅等的img-url特性，本项目由此应运而生
 
@@ -9,9 +9,9 @@ mini项目
 
 注意：本项目仅收录机场订阅相关图标，这些图标可用于订阅，策略组等位置的远程引用
 
-Telegram频道：https://t.me/Orzmini
+##### Telegram频道：https://t.me/Orzmini
 
-使用方法：
+### 使用方法：
 
   1、订阅链接中引用
   
