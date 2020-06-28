@@ -30,7 +30,7 @@
 
   **完整示例：**`static=policy-name-1, Sample-A, Sample-B, Sample-C, img-url=http://example.com/icon.png`
 
-#### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
+##### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/机场.png)
 
