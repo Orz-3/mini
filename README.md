@@ -34,17 +34,15 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/机场.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-1.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-2.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-3.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-4.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-5.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-6.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-5.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
 
