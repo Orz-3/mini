@@ -46,7 +46,7 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.2-彩蛋.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-彩蛋.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
 
