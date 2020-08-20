@@ -34,7 +34,7 @@ Pharos Pro（iOS）tf1.3.3（36）版本目前也可使用图标
   
 ### Pharos Pro使用方法：
 
-  在Pharos Pro主页对应订阅上左滑，点击编辑,在弹出界面的图标一栏中填入 `https://raw.githubusercontent.com/Orz-3/mini/master/name.png`
+  在Pharos Pro主页对应订阅上左滑，点击编辑，在弹出界面的图标一栏中填入 `https://raw.githubusercontent.com/Orz-3/mini/master/name.png`
   
 ### task图标使用方法：
 
