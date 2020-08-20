@@ -48,7 +48,7 @@ Pharos Pro（iOS）tf1.3.3（36）版本目前也可使用图标
 
 🔘透明版本 `https://raw.githubusercontent.com/Orz-3/mini/master/name.png`
 
-  **注：**task图标的透明和彩色版本文件名完全一致，仅所在库不同
+  **注：** task图标的透明和彩色版本文件名完全一致，仅所在库不同
 
 ##### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，请将使用方法中的name.png替换成相应文件的文件名
 
