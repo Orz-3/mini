@@ -3,13 +3,11 @@
 
 ## mini项目
 
-由于Quantumult X 1.07版本新增了机场订阅等的img-url特性，本项目由此应运而生
+本项目诞生之初是为了适配Quantumult X 1.07版本新增的机场订阅img-url特性，经过不断发展，包含了机场订阅图标，Task图标，节点地区图标，策略组图标等
 
-本项目是为Quantumult X订阅制作图标，用于QuantumultX 1.07及以上版本中
+本项目可用于QuantumultX 1.07及以上版本，和Pharos Pro（iOS）tf1.3.3（36）及以上版本中
 
-Pharos Pro（iOS）tf1.3.3（36）版本目前也可使用图标
-
-**注意：** 本项目图标可用于订阅，策略组等位置的远程引用
+**注意：** 本项目图标可用于订阅，Task，策略组等位置的远程引用
 
 ##### Telegram频道： [mini计划-图标聚合](https://t.me/Orzmini)
 
