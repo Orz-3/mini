@@ -26,7 +26,7 @@
   
   **2.1** 如果通过as-policy生成策略组，会直接引用和订阅链接字段同样的图标，且无法更改
   
-  **2.2** 如果通过UI生成策略组，或者想直接在策略组中使用本项目图标，请打开QuanX 配置文件-编辑，找到［policy］字段，并在相应策略组中末尾，加上`img-url=https://raw.githubusercontent.com/Orz-3/mini/master/name.png`  注意同样要用英文逗号与前面句子隔开，并在逗号后面空一格
+  **2.2** 如果通过UI生成策略组，或者想直接在策略组中使用本项目图标，请打开QuanX 配置文件-编辑，找到［policy］字段，并在相应策略组中末尾，加上`img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/name.png`  注意同样要用英文逗号与前面句子隔开，并在逗号后面空一格
 
   **完整示例：**`static=policy-name-1, Sample-A, Sample-B, Sample-C, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/name.png`
   
