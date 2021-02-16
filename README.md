@@ -70,20 +70,6 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略2.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略3.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略4.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区1.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区2.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区3.png)
-
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/Task.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.png)
