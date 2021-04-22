@@ -53,17 +53,17 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/机场.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-1.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-2.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-3.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-4.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板4.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-彩蛋.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板5.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
 
