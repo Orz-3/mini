@@ -61,8 +61,6 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-5.png)
-
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-彩蛋.png)
