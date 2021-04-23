@@ -71,16 +71,16 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/Task.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-2.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-2.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-3.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-3.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-4.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-4.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-5.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-5.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-6.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-6.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-7.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-7.jpg)
