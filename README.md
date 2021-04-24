@@ -67,7 +67,11 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩色.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略1.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略2.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/Task.png)
 
