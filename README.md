@@ -40,14 +40,14 @@
 
 ### Loon使用方法：
 
-  **2.1** UI中使用
+  **1** UI中使用
   
   点击下方“策略”选项卡，在策略界面点长按想要更改图标的订阅/策略组，弹出界面中，在图标一栏填写 
 
   **`https://raw.githubusercontent.com/Orz-3/mini/master/Color/name.png`
 
 
-  **2.2** 文本编辑：
+  **2** 文本编辑：
   打开Loon配置选项卡，点击编辑-文本编辑，找到[Remote Proxy]/［Proxy Group］字段，在想要增加图标的相应订阅/策略段落中修改，加上 **`img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/name.png`  注意此句和前句要用英文逗号隔开
 
 注：请将使用方法中的name.png替换成相应文件的文件名
