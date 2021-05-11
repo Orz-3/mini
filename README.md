@@ -10,7 +10,9 @@
 
 **注意：** 本项目图标可用于订阅，Task，策略组等位置的远程引用
 
-##### Telegram频道： [mini计划-图标聚合](https://t.me/Orzmini)
+##### Telegram频道： [mini](https://t.me/Orzmini)
+
+##### Telegram群组： [mini](https://t.me/Orz_mini)
 
 ### Quantumult X使用方法：
 
@@ -81,10 +83,6 @@
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板3.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板4.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板5.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
 
